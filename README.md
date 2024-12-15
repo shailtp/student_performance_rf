@@ -4,7 +4,7 @@ This project predicts student performance (pass/fail) using a **Random Forest Cl
 
 ## Dataset
 
-The dataset used for this project can be accessed from [Kaggle: Student Performance Prediction Dataset](https://www.kaggle.com/datasets/souradippal/student-performance-prediction/data).
+The ucleaned dataset used for this project can be accessed from [Kaggle: Student Performance Prediction Dataset](https://www.kaggle.com/datasets/souradippal/student-performance-prediction/data).
 
 ## Summary
 
