@@ -39,6 +39,11 @@ This project implements a machine learning pipeline to preprocess the dataset, b
    - Test the model on the testing dataset and evaluate its performance using the same metrics.
    - Display and plot the confusion matrix for this reduced feature set.
 
+7. **Predict Probabilities for Specific Samples**
+   - Select one positive and one negative sample from the test dataset.
+   - Use the trained model to predict probabilities for these samples.
+   - Display the predicted class, probabilities for each class, and whether the prediction was correct.
+
 ## How to Use
 
 1. Clone the repository:
@@ -58,4 +63,3 @@ This project implements a machine learning pipeline to preprocess the dataset, b
    ```
 
 4. Follow the steps in the notebook to reproduce the results or test new datasets.
-   
